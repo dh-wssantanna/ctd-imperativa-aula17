@@ -17,4 +17,12 @@
             (  ) Insira o texto: Seja bem-vindo ao [nome_do_projeto].
         (  ) Rota http://localhost:1234/sobre/
             (  ) Insire o texto: Sobre o projeto
+
+
+    Comandos npm
+        npm init -> para inicializar o projeto.
+        npm install [nome_do_modulo] -> para instalar um módulo de terceiros.
+        npm install -> para instalar o projeto quando esta sem a pasta node_modules.
+        npm uninstall [nome_do_modulo] -> para desinstalar um módulo de terceiros.
+        npm start -> para executar o projeto. 
 */
